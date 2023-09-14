@@ -3,16 +3,16 @@ NPM:
 Kode Soal:
 
 1. Sistem apa yang anda kembangkan?
-Jawab:
+Jawab: Sistem Pemesanan Menu Kantin SMA XYZ
 
 2. Permasalahan apa yang terjadi pada studi kasus anda?
-Jawab:
+Jawab: Pemesanan dan Transaksi
 
 3. Apa solusi yang dapat anda berikan pada permasalahan tersebut?
-Jawab:
+Jawab: Pembayaran melalui transaksi online
 
 4. Apa yang menjadi nilai lebih solusi yang anda hadirkan dari sistem/solusi yang sudah ada?
-Jawab:
+Jawab: memudahkan user/siswa dan pihak kantin
 
 5. Apa saja kendala dan resiko yang mungkin akan anda hadapi selama pengembangan sistem?
-Jawab:
+Jawab: Penyesuaian pengguna

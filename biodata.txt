@@ -1,9 +1,9 @@
-Nama:
-NPM:
-Prodi:
+Nama: Riska Oktafia
+NPM: 21312073
+Prodi: Informatika
 
-Link hasil perencanaan sistem menggunakan BRD:
+Link hasil perencanaan sistem menggunakan BRD: https://drive.google.com/file/d/1Urs7kS-66rxLUWJMT95-8sy7DsffLSN_/view?usp=drive_link
 *upload BRD ke drive dan pastikan akses file bersifat public
 
-Link hasil perencanaan sistem menggunakan Trello:
+Link hasil perencanaan sistem menggunakan Trello: https://trello.com/b/lDB2PPc5/xyz-sma-canteen-menu-ordering-system-extreme-programming
 *upload link trello dan pastikan akses board bersifat public
